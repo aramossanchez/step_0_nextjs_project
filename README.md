@@ -1,1 +1,1 @@
-# step_0_nextjs_project
+STEP 0 - NEXTJS PROYECT
