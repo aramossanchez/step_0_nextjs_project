@@ -7,10 +7,10 @@ export function IndexContainer() {
     <section className=''>
       <Image
         src={`${basePath}images/logo.png`}
-        width={100}
-        height={100}
+        width={50}
+        height={60}
         alt="Logo"
-        className='w-[100px] h-[100px]'
+        className='w-[50px] h-[60px]'
       />
     </section>
   )
